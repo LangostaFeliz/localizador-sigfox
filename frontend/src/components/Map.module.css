@@ -1,0 +1,14 @@
+.container {
+
+    margin-top:20px;
+}
+
+.button {
+    width: 20px;
+    height: 20px;
+    background-color: #acbdf2;
+    margin: 0;
+    border-radius: 15px;
+    border-style: none;
+    transform: translate(-50%,-50%)
+}

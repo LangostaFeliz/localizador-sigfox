@@ -1,0 +1,72 @@
+
+.container{
+    width:200px;
+    height:600px;
+    background-color:#f2f2f2;
+    left:0px;
+    top:60px;
+    position:fixed;
+    border-radius:15px;
+    transition:1s;
+}
+
+.form{
+    padding:10px;
+    display:block;
+}
+
+.inputGroup{
+    background-color:#f2f2f2;
+    border-radius: 15px;
+    width:90%;
+    height:100px;
+    display:grid;
+    justify-content:center;
+}
+
+.label{
+    padding:5px;
+}
+
+.input{
+    width:120px;
+    height:50px;
+    border-radius: 15px;
+    background-color:grey;
+    border-style:none;
+    outline:none;
+
+}
+
+.inputDate{
+    width:190;
+    height:50px;
+    border-radius: 15px;
+    background-color:grey;
+    border-style:none;
+    margin-left:0px;
+    outline:none;
+}
+.center{
+    display:flex;
+    justify-content:center;
+}
+
+.selectButtonType{
+    width:80px;
+    height:40px;
+    border-radius: 15px;
+    border-style:none;
+    background-color:white;
+}
+.submitButton{
+    width:80px;
+    height:40px;
+    border-radius: 15px;
+    margin: -20px -50px; 
+    position:relative;
+    top:50%; 
+    left:50%;
+    
+
+}
